@@ -54,6 +54,14 @@
   
   时间序列处理：Adhikari, R., & Agrawal, R. K. (2013). [An introductory study on time series modeling and forecasting. arXiv preprint arXiv:1302.6613.](https://arxiv.org/abs/1302.6613)，文章；[Introduction to Time Series Forecasting (Python)](https://machinelearningmastery.com/start-here/#timeseries)，[Deep Learning for Time Series Forecasting](https://machinelearningmastery.com/start-here/#deep_learning_time_series)，Blogs
   
+    
+  时空数据处理：W. Li, W. Tao, et.al., [A Survey on Spatial and Spatiotemporal Prediction Methods](https://arxiv.org/pdf/2012.13384.pdf)，文章；
+X. Shi and D.-Y. Yeung, [Machine learning for spatiotemporal sequence forecasting: A survey](http://arxiv.org/abs/1808.06865)，文章。
+
+
+  图神经网络：Yao Ma, Jiliang Tang (2021). [Deep Learning on Graphs](https://cse.msu.edu/~mayao4/dlg_book/dlg_book.pdf)，书籍；J. Zhou et al., [Graph neural networks: A review of methods and applications](http://arxiv.org/abs/1812.08434)，文章；Z. Wu, S. Pan et.al. [A comprehensive survey on graph neural networks](https://arxiv.org/abs/1901.00596)，文章。
+
+  
   可解释人工智能：[AAAI2020 XAI Tutorial](https://xaitutorial2020.github.io/#), [CVPR2021 Interpretable Machine Learning for Computer Vision Tutorial](https://interpretablevision.github.io/), [CVPR 2020 Interpretable Machine Learning for Computer Vision Tutorial](https://interpretablevision.github.io/index_cvpr2020.html)，Tutorials
 
 ## Ⅱ. 工具
